@@ -7,7 +7,7 @@ Kerjakan dengan menggunakan bahasa pemograman yg anda kuasai, buat folder terpis
 
 Contoh:  
 ```
-const sentence = "Saya sangat senang mengerjakan soal algoritma"
+const sentence = "Saya sangat senang sekali mengerjakan soal algoritma dengan mudah dan gampang"
 
 longest(sentence) 
 // mengerjakan: 11 character
